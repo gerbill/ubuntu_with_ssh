@@ -1,8 +1,7 @@
 # Ubuntu with ssh enabled
 Spin up your own ubuntu server in docker! 
 
-
-⚠️ NOTE: THIS CONTAINER IS MEANT ONLY FOR LOCAL USE FOR TESTING OR LEARNING PURPUSES
+⚠️ NOTE: THIS CONTAINER IS MEANT ONLY FOR LOCAL USE FOR TESTING OR LEARNING PURPOSES
 
 ## Setup
 1. Install docker for your OS if you haven't yet: https://docs.docker.com/engine/install/
